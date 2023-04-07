@@ -47,10 +47,6 @@ class H1 {
     }
 }
 
-/*
-let myButton = new Button("app","boton","Añadir elemento", `myFunction()`)
-myButton.render();
-*/
 // inicializo Array de inputs y lo muestro en una etiqueta h1
 let inputArray = ["Username", "Password", "E-mail"];
 
